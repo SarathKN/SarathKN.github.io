@@ -288,17 +288,35 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
+.skills__ios{
+  width: 80%;
+}
+.skills__android{
+  width: 85%;
+}
 .skills__html{
-  width: 95%;
+  width: 65%;
+}
+.skills__react{
+  width: 65%;
 }
 .skills__css{
   width: 85%;
 }
 .skills__js{
-  width: 65%;
+  width: 60%;
 }
-.skills__ux{
-  width: 85%;
+.skills_php{
+  width: 70%;
+}
+.skills__mssql{
+  width: 60%;
+}
+.skills__mysql{
+  width: 70%;
+}
+.skills__mongodb{
+  width: 50%;
 }
 .skills__img{
   border-radius: .5rem;
